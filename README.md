@@ -99,3 +99,7 @@
     Toast has been used to display pop-ups on the page for things like successfully signed in, incorrect username and/or password, session expired, successfully or failed to post/delete notes or favourites, "note cannot be empty," and "note cannot exceed 255 characters."
   </li>
 </ul>
+
+<h2>🤳 Connect with me:</h2>
+
+<a href="https://linkedin.com/in/yourprofile"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
